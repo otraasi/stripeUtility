@@ -8,7 +8,7 @@ import {
 } from '@stripe/react-stripe-js';
 
 // Replace with your Stripe publishable key
-const stripePromise = loadStripe('pk_test_dC3cGB44P20qeCPonXaRhhf7');
+const stripePromise = loadStripe('publishable_key_here');
 
 // Add styling options for the card element
 const CARD_ELEMENT_OPTIONS = {
