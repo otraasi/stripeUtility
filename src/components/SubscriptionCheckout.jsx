@@ -11,6 +11,7 @@ import {
 const stripePromise = loadStripe('publishable_key_here');
 
 // Add styling options for the card element
+// Adding a dummy line
 const CARD_ELEMENT_OPTIONS = {
   style: {
     base: {
